@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/rosekamallove/problem-solving/dsa/concepts/6-BinarySearch'
+let g:netrw_dirhist_4='/Users/rosekamallove/Documents/problem-solving/practice/cc/random'
+let g:netrw_dirhist_3='/Users/rosekamallove/.zsh'
+let g:netrw_dirhist_2='/Users/rosekamallove/Documents/friendly_chat/lib'
+let g:netrw_dirhist_1='/Users/rosekamallove/Documents/startup_namer/lib'
+let g:netrw_dirhist_0='/Users/rosekamallove/Documents/startup_namer'
+let g:netrw_dirhist_9='/Users/rosekamallove/Documents/flutter_demo/lib'
+let g:netrw_dirhist_8='/Users/rosekamallove/Documents/flutter_demo'
+let g:netrw_dirhist_7='/Users/rosekamallove/.zsh'
+let g:netrw_dirhist_6='/Users/rosekamallove/.vim/templates'
